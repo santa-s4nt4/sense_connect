@@ -4,3 +4,5 @@
 [1002/170157.541:ERROR:exception_snapshot_win.cc(98)] thread ID 15080 not found in process
 [1002/171117.286:ERROR:process_reader_win.cc(123)] NtOpenThread: {アクセス拒否} プロセスはオブジェクトのアクセスを要求しましたが、アクセス権が与えられていません。 (0xc0000022)
 [1002/171117.286:ERROR:exception_snapshot_win.cc(98)] thread ID 20548 not found in process
+[1002/183302.928:ERROR:process_reader_win.cc(123)] NtOpenThread: {アクセス拒否} プロセスはオブジェクトのアクセスを要求しましたが、アクセス権が与えられていません。 (0xc0000022)
+[1002/183302.928:ERROR:exception_snapshot_win.cc(98)] thread ID 14480 not found in process
